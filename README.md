@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**SanjnaPanwar/SanjnaPanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Git Diagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a visual representation of my recent Git activity:
+
+```plaintext
+gitGraph
+   commit
+   commit
+   branch dev-copy
+   checkout dev-copy
+   commit
+   commit
+   checkout main
+   merge dev-copy
+   commit
+   commit
+
+
+flowchart LR
+    id["This ❤ Unicode"]
+    id --> A[Flowchart Step A]
+    A --> B[Flowchart Step B]
+    B --> C[Flowchart Step C]
+    C --> D[Flowchart Step D]
+    D --> E[Flowchart Step E]
