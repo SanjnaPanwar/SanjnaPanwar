@@ -2,16 +2,15 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-
+<div align="center">
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="70" /> What's up?</h1>
+</div>
 <p> My name is Sanjna and i'm a javascript developer, from <img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" width="15" /> <b>Madhya Pradesh, India</b>. </p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -33,20 +32,4 @@
 
 ###
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
