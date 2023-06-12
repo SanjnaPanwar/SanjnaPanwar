@@ -11,11 +11,11 @@ if (problem.importance < High){
 }
 
 ```
-
 <div>
-<img  align="left" <img src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="35" width="35"/>
+<img  align="left" <img src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="50" width="50"/>
 </div>
 
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
