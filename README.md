@@ -18,11 +18,11 @@ if (problem.importance < High) {
 ```
 
 <div>
-    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="90" width="90"/>
+    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="70" width="70"/>
 </div>
 
 
-# 🛠 Language and tools
+### 🛠 Language and tools
 
 
 <div align="center">
@@ -46,7 +46,7 @@ if (problem.importance < High) {
 </div>
 
 
-# Connect with me on
+### Connect with me on
 <div align="left">
   <a href="https://www.linkedin.com/in/sanjna-panwar-33b837220/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
