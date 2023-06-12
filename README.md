@@ -16,17 +16,16 @@ if (problem.importance < High) {
   relax()
 }
 ```
+
 <p>
     <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="70" width="70"/>
 </p>
 
-
-
 ### <br>
+
 ### <br>
 
 ### 🛠 I code with this tools
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -48,8 +47,8 @@ if (problem.importance < High) {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
 </div>
 
-
 ### 💼Connect with me on
+
 <div align="left">
   <a href="https://www.linkedin.com/in/sanjna-panwar-33b837220/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
@@ -59,4 +58,6 @@ if (problem.importance < High) {
   </a>
 </div>
 
-# ❤
+<div align="right">
+<h1>❤</h1>
+</div>
