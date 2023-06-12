@@ -6,11 +6,35 @@
 <p><em>My name is Sanjna and I'm a Backend Developer from</em><b><em> Madhya Pradesh, India.</em></b><img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" height="35" width="35"/></p>
 
 ```ruby
-if(problem.importance < High) {
-  relax()
-}
-```
+class Life {
+    constructor() {
+        this.problemImportance;
+        this.choiceDifficulty;
+        this.lifeMode;
+    }
 
+    handleProblemImportance() {
+        if (this.problemImportance < Importance.HIGH) {
+            this.relax();
+        }
+    }
+
+    handleChoiceDifficulty() {
+        if (this.choiceDifficulty === Difficulty.HARD) {
+            this.setLifeMode(Mode.EASY);
+        }
+    }
+
+    setLifeMode(mode) {
+        this.lifeMode = mode;
+    }
+
+    relax() {
+        <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" height ="50/>
+    }
+}
+
+```
 
 <h3 align="left">🛠 Language and tools</h3>
 
