@@ -4,7 +4,7 @@
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mauro and i'm a javascript developer, from <img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" width="17" /> <b>Madhya Pradesh, India</b>. </p>
+<p> My name is Sanjna and i'm a javascript developer, from <img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" width="15" /> <b>Madhya Pradesh, India</b>. </p>
 
 
 <h3 align="left">🛠 Language and tools</h3>
