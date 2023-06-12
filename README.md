@@ -18,7 +18,7 @@ if (problem.importance < High) {
 ```
 
 <p>
-    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="70" width="70"/>
+    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="80" width="80"/>
 </p>
 
 ### <br>
