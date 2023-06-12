@@ -14,12 +14,17 @@ if (choice.difficulty == HARD) {
   life.setMode(EASY)
 }
 ```
+
 <div>
     <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="100" width="100"/>
 </div>
+
+<div>
 <h3 align="left">🛠 Language and tools</h3>
+</div>
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
