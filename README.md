@@ -21,12 +21,11 @@ if (problem.importance < High) {
     <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="90" width="90"/>
 </div>
 
-<div>
-<h3 align="left">🛠 Language and tools</h3>
-</div>
+
+# 🛠 Language and tools
+
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -44,4 +43,15 @@ if (problem.importance < High) {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
+</div>
+
+
+# Connect with me on
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanjna-panwar-33b837220/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_sanjna_panwar_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
