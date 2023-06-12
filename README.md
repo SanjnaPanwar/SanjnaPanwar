@@ -20,10 +20,10 @@ if (choice.difficulty == HARD) {
 </div>
 
 <div>
-<h3 align="left">🛠 Language and tools</h3>
 </div>
 
 <div align="center">
+<h3 align="left">🛠 Language and tools</h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
