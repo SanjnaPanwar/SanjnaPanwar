@@ -5,7 +5,9 @@
 
 Here's a visual representation of my recent Git activity:
 
-```plaintext
+---
+title: My Git diagram
+---
 gitGraph
    commit
    commit
@@ -19,6 +21,9 @@ gitGraph
    commit
 
 
+---
+title: Node
+---
 flowchart LR
     id["This ❤ Unicode"]
     id --> A[Flowchart Step A]
