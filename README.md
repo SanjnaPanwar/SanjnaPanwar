@@ -25,7 +25,7 @@ if (problem.importance < High) {
 
 ### <br>
 
-### 🛠 I code with this tools
+## 🛠 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -47,7 +47,7 @@ if (problem.importance < High) {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo" />
 </div>
 
-### 💼Connect with me on
+## 💼Connect with me on
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sanjna-panwar-33b837220/" target="_blank">
