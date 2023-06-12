@@ -59,5 +59,5 @@ if (problem.importance < High) {
 </div>
 
 <div align="right">
-<h1>❤</h1>
+<h3>❤</h3>
 </div>
