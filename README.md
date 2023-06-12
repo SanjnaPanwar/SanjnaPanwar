@@ -3,7 +3,7 @@
   <img  align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height="230" width="230" />
 </div>
 
-<p><em>My name is Sanjna and I'm a JavaScript developer from</em> <img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" height="35" width="35"/><b> <em>Madhya Pradesh, India</em></b>.</p>
+<p><em>My name is Sanjna and I'm a JavaScript developer from</em><b><em>Madhya Pradesh, India</em></b><img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" height="35" width="35"/>.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
