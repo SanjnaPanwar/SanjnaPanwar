@@ -13,7 +13,7 @@ if (problem.importance < High){
 ```
 
 <div>
-<img  align="left" <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" height="35" width="35"/>
+<img  align="left" <img src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="35" width="35"/>
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
