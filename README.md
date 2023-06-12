@@ -1,33 +1,7 @@
 # Hi there! 👋
 
+## ✉️ Find me on:
 
-## Git Diagram
+<p align="center">
 
-Here's a visual representation of my recent Git activity:
-
----
-title: My Git diagram
----
-gitGraph
-   commit
-   commit
-   branch dev-copy
-   checkout dev-copy
-   commit
-   commit
-   checkout main
-   merge dev-copy
-   commit
-   commit
-
-
----
-title: Node
----
-flowchart LR
-    id["This ❤ Unicode"]
-    id --> A[Flowchart Step A]
-    A --> B[Flowchart Step B]
-    B --> C[Flowchart Step C]
-    C --> D[Flowchart Step D]
-    D --> E[Flowchart Step E]
+<a href="https://www.linkedin.com/in/sanjna-panwar-33b837220/" target="_blank" rel="noopener noreferrer"> <img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
