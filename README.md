@@ -6,17 +6,17 @@
 <p><em>My name is Sanjna and I'm a Backend Developer from</em><b><em> Madhya Pradesh, India.</em></b><img src="https://th.bing.com/th/id/R.1f4caac1df5351305e892977139006a9?rik=vbet9D%2fj%2flY8qg&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fIndia-Map-Transparent-PNG.png&ehk=Re%2fTCzEZ993Y5goDY1MovlkdHIiO1Ub6e4LjN0wo5uI%3d&risl=&pid=ImgRaw&r=0" height="35" width="35"/></p>
 
 ```ruby
-if (problem.importance < High){
+if (problem.importance < High) {
     relax()
 }
-
+AND
+if (choice.difficulty == HARD) {
+  life.setMode(EASY)
+}
 ```
 <div>
-<img  align="left" <img src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="100" width="100"/>
+    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="100" width="100"/>
 </div>
-
-<br>
-<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
