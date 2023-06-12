@@ -18,14 +18,14 @@ if (problem.importance < High) {
 ```
 
 <div>
-    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="100" width="100"/>
+    <img align="left" src="https://i.pinimg.com/originals/ee/ac/fd/eeacfdd2363c3685f01e3729cf9b6aff.jpg" height="90" width="90"/>
 </div>
 
 <div>
+<h3 align="left">🛠 Language and tools</h3>
 </div>
 
 <div align="center">
-<h3 align="left">🛠 Language and tools</h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
